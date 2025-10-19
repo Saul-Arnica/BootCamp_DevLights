@@ -41,7 +41,7 @@ public class Ejercicio_2
         }
 
         //Mostramos mayor y menor.
-        //Como Math.Max utiliza 2 parametros, hacemos que el primero se compare con el resultado del otro.
+        //Como Math.Max y Min utiliza 2 parametros, hacemos que el primero se compare con el resultado del otro.
         int mayor = Math.Max(numero1, Math.Max(numero2, numero3));
         int menor = Math.Min(numero1, Math.Min(numero2, numero3));
 
