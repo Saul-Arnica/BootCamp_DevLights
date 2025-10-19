@@ -20,13 +20,12 @@ El objetivo es **aprender buenas prácticas de desarrollo**, trabajar en equipo 
 
 Durante el Bootcamp se trabajó con:
 
-- **Lenguajes de programación:** JavaScript, HTML, CSS, PHP, SQL, C# (según los módulos).
-- **Frameworks y Librerías:** Bootstrap, CodeIgniter4, Node.js (según proyectos).
-- **Bases de datos:** MySQL, SQLite.
+- **Lenguajes de programación:** JavaScript, SQL, C#.
+- **Frameworks y Librerías:**  React.
 - **Control de versiones:** Git y GitHub.
 - **Entorno de desarrollo:** Visual Studio, Visual Studio Code, Git Bash.
 
-> Nota: Los proyectos pueden variar según el módulo y el desafío trabajado.
+> Nota: Los proyectos tendran 
 
 ---
 
@@ -35,8 +34,8 @@ Durante el Bootcamp se trabajó con:
 ```text
 BootCamp_DevLights/
 │
-├─ Proyecto1/
-├─ Proyecto2/
-├─ Ejercicios/
+├─ Practico 1 Clase 1 y 2/
+├─ Practico x Clase x/
+├─ Ejercicios Variados/
 ├─ README.md
 └─ .gitignore
