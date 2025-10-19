@@ -1,0 +1,18 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+Debug/
+Release/
+*.log
+
+# Configuración local
+.vscode/
+*.tmp
+*.cache
