@@ -37,6 +37,5 @@ public class Ejercicio_6
                 Console.WriteLine("\nTas mas cerca del cielo que de la tierra campeon!");
             }
         }
-
     }
 }
