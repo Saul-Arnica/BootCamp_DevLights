@@ -8,10 +8,10 @@ using System;
 namespace Punto_1;
 public class Ejercicio1
 {
-    public static void Main(string[] args) 
-        /*Acá no se usa el argumento, ya que no se pasan msgs :P
-            Pero lo puse igual :V
-        */
+    public static void Main(/*string[] args*/)
+    /*Acá no se usa el argumento, ya que no se pasan msgs :P
+        Pero lo puse igual :V
+    */
     {
 
         Console.WriteLine("Ingresa un numero:");
