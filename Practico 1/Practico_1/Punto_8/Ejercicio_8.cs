@@ -1,5 +1,5 @@
 ﻿/*
- * 8.Operador ternario:
+ * 8. Operador ternario:
  * Pedir un numero y mostrar "Par" o "Impar" usando el operador ternario
  */
 
