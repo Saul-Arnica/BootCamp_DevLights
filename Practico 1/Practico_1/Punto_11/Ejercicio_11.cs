@@ -24,7 +24,6 @@ public class Ejercicio_11
 
         }else if(opcion >= 1 && opcion <= 4)
         {
-            int numero1 = 0, numero2 = 0;
             Console.WriteLine("Ingrese dos numeros para sumar:");
 
             Console.Write("Numero 1:");
@@ -33,14 +32,14 @@ public class Ejercicio_11
             Console.Write("Numero 2:");
             string? ingresoNumero2 = Console.ReadLine();
 
-            if (!int.TryParse(ingresoNumero1, out numero1)
-             || !int.TryParse(ingresoNumero2, out numero2))
+            if (!int.TryParse(ingresoNumero1, out int numero1)
+             || !int.TryParse(ingresoNumero2, out int numero2))
             {
                 Console.WriteLine("Ingreso incorrecto, vuelva a intentar.");
             }
             else
             {
-                double resultado = 0.0;
+                double resultado;
                 switch (opcion)
                 {
                     case 1:
