@@ -18,9 +18,9 @@ El objetivo es **aprender buenas prácticas de desarrollo**, trabajar en equipo 
 
 ## 🚀 Tecnologías y Herramientas
 
-Durante el Bootcamp se trabajó con:
+Durante el Bootcamp se trabajará con:
 
-- **Lenguajes de programación:** JavaScript, SQL, C#.
+- **Lenguajes de programación:** JavaScript - TypeScript, SQL, C#.
 - **Frameworks y Librerías:**  React.
 - **Control de versiones:** Git y GitHub.
 - **Entorno de desarrollo:** Visual Studio, Visual Studio Code, Git Bash.
