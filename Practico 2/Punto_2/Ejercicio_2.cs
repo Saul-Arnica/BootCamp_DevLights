@@ -13,8 +13,8 @@ public class Ejercicio_2
     public static void Main(/*string[] args*/)
     {
         // Lista de edades de 20 personas (pueden ser fijas o aleatorias)
-        List<int> edades = new List<int>();
-        Random rand = new Random();
+        List<int> edades = [];
+        Random rand = new();
 
         for (int i = 0; i < 20; i++)
         {
@@ -36,7 +36,7 @@ public class Ejercicio_2
                 menores++;
         }
 
-        Console.WriteLine("\n---------------------------");
+        Console.WriteLine("\n---------------------------"); 
         Console.WriteLine($"Total de personas: {edades.Count}");
         Console.WriteLine($"Mayores de edad: {mayores}");
         Console.WriteLine($"Menores de edad: {menores}");
